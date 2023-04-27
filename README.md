@@ -13,7 +13,7 @@
 | Power | 500W |
 
 # What's working
-Everything except sleep!
+Everything!
 
 # issue
 Everything is working perfectly!

@@ -16,5 +16,5 @@
 Everything except sleep!
 
 # issue
-1.sleep(shutdown after click sleep button)
+Everything is working perfectly!
 
